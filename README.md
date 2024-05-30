@@ -1,4 +1,4 @@
-# PanoVision360
+# SuperRes-Pano360
 
 PanoVision360 is a Python-based project that facilitates the creation of 360-degree panoramas from videos. It achieves this by splitting the video into shots, enhancing the image quality using SRCNN (Super-Resolution Convolutional Neural Network), and then stitching the enhanced images together.
 
