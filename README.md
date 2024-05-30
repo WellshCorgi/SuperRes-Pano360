@@ -17,7 +17,7 @@ PanoVision360 is a Python-based project that facilitates the creation of 360-deg
 - Python 3.9
 - OpenCV
 - TensorFlow
-- Pre-train Model Weight (Link)[https://github.com/g2zac/pre-trained-weights-for-the-SRCNN]
+- Pre-train Model Weight [Link](https://github.com/g2zac/pre-trained-weights-for-the-SRCNN)
 
 ### Installation
 
