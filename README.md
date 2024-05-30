@@ -10,6 +10,8 @@ PanoVision360 is a Python-based project that facilitates the creation of 360-deg
 
 ## Usage
 
+**Test Environment**: The project was tested on an Apple MacBook M2 (MacOS), Windows (You Should change directory on source code) 
+
 ### Prerequisites
 
 - Python 3.9
@@ -21,8 +23,8 @@ PanoVision360 is a Python-based project that facilitates the creation of 360-deg
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/PanoVision360.git
-    cd PanoVision360
+    git clone https://github.com/WellshCorgi/SuperRes-Pano360.git
+    cd SuperRes-Pano360
     ```
 
 2. Install dependencies:
